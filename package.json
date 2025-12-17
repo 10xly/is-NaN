@@ -1,0 +1,27 @@
+{
+  "name": "@is-(unknown)/is-nan",
+  "version": "1.0.0",
+  "description": "Check if a value is NaN.",
+  "keywords": [
+    "nan"
+  ],
+  "homepage": "https://github.com/is-unknown/is-NaN#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/is-NaN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/is-NaN.git"
+  },
+  "license": "MIT",
+  "author": "Me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "has-no-self-equality": "^0.0.2"
+  },
+  "devDependencies": {}
+}
